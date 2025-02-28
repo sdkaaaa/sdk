@@ -1,1 +1,1 @@
-web: python Pulsito.py
+worker: python Pulsito.py
