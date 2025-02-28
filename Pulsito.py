@@ -155,3 +155,6 @@ async def custom_help(ctx):
     embed.add_field(name="🎵 `!nowplaying`", value="Muestra la canción actual.", inline=False)
     embed.add_field(name="🔄 `!leave`", value="Desconecta el bot del canal de voz.", inline=False)
     await ctx.send(embed=embed)
+
+# Token del bot (Reemplázalo con el tuyo)
+bot.run("MTM0NDc5MTg0NjYyMjE5OTg4OQ.GI_H8a.iQga9pCIsNhytit-eBpJKD31fsXf5C5IEmWMwI")  # Reemplaza con tu token de Discord
